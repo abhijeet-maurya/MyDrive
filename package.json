@@ -23,7 +23,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://<username>.github.io/<repository-name>",
+  "homepage": "https://abhijeet-maurya.github.io/MyDrive",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
