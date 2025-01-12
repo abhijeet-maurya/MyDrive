@@ -20,7 +20,3 @@ app.listen(3000,()=>{
     console.log('server is running on port 3000');
 });
 
-  // "scripts": {
-  //   "test": "echo \"Error: no test specified\" && exit 1",
-  //   "start": "npx nodemon app.js"
-  // },
